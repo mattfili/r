@@ -1,0 +1,13 @@
+Data Science Process
+Find a question - prediction we'd want to make =>
+Explore the data - find the data we have, what we don't have, and what
+we need
+Prepare the data - data munging - gather, clean, and get them suitable
+for analalsys
+Create a model - create a model given our data, numberical, visual,
+statistical, or ML model
+Evaluate the model - does it help us make the decision and is it
+appropriate in context
+Deploy the model = communicate that in a report or deploying it
+
+
